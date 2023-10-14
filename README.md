@@ -12,7 +12,7 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the dvc.yaml
-10. app.py
+10. streamlit app
 
 # How to run?
 ### STEPS:
