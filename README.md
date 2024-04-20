@@ -57,13 +57,6 @@ open up you local host and port
 3. dvc dag
 
 
-## About MLflow & DVC
-
-MLflow
-
- - Its Production Grade
- - Trace all of your expriements
- - Logging & taging your model
 
 
 DVC 
